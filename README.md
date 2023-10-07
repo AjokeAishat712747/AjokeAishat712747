@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AjokeAishat712747 (Aisha A Oshinaya)
 - 👀 I’m interested in Data Analysis, Data Science, Business Intelligence Analysis, Financial Analysis.
 - 🌱 I’m currently learning Advanced Excel, Python, Machine Learning , Artificial Intelligence.
-- 💞️ I’m looking to collaborate on Linkedin and Github (open to job Oppoetunities)
+- 💞️ I’m looking to collaborate on Linkedin and Github (open to job Opportunities)
 - 📫 You can connect with me on Linkedin : [Linkedin](https://www.linkedin.com/in/ajoke-oshinaya)
+
+- ![Associates_IdeaHub_BR](https://github.com/AjokeAishat712747/AjokeAishat712747/assets/139535267/d09b7183-d222-4453-aa5c-f46739c1bd22)
+
 
 <!---
 AjokeAishat712747/AjokeAishat712747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
